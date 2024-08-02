@@ -1,4 +1,4 @@
-// Elisabeth Robbins
+// Avery Robbins
 // 3/12/24
 //
 // The purpose of this program is to iterate through and print a chosen range of integers with three variants.
